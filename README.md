@@ -9,7 +9,6 @@ This project explores the fundamental IT concepts behind VPN technology using Pr
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
-    - "CLIENT 1" (User PC) & "DC-1" (Domain Controller PC)
 - Remote Desktop
 - Proton VPN
 - www.whatismyipaddress.com
