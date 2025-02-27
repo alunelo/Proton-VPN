@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://imgur.com/UB1KIvZ.png" alt="Traffic Examination"/>
+<img src="https://imgur.com/9cU5wpD.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Domain Name Server Configuration </h1>
-This project explores Domain Name System (DNS) management and analysis using PowerShell, CNAME records, and Windows Server Manager. The goal was to observe how DNS resolves domain names, analyze different record types, and use PowerShell commands to interact with DNS settings efficiently. <br />
+<h1>Proton VPN Configuration</h1>
+Tis project explores the fundamental IT concepts behind VPN technology using Proton VPN. The primary objective was to observe the changes in properties such as IP address, location, ISP (Internet Service Provider) when A PC has no VPN compared when it does have a VPN. 
 
 
 <h2>Environments and Technologies Used</h2>
